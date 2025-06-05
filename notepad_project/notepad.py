@@ -4,6 +4,7 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 from tkinter import font
 import os
 
+file = 0
 default_font_size = 14
 
 
